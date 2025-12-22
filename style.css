@@ -5,16 +5,17 @@
 }
  body {
     background-color: rgb(111, 133, 133);
+    font-family: "roboto" ;
  }
 
  header{
-    display: flex;
+    display:flex;
     justify-content:space-between;
     align-items: center;
  }
 
  .logo{
-    display: flex;
+    display:inline;
     color: white;
     font-size: 30px;
     margin:20px 30px;
